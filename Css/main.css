@@ -1,0 +1,19 @@
+.nav-item{
+    margin-left: 10px;
+}
+
+.pageTitle h1{
+    text-shadow: 1px 1px 1px red;
+}
+.about{
+    background-color: grey;
+    margin-top: 20px;
+}
+.about h1{
+color: beige;
+font-size: 100px;
+}
+
+.aboutItems h3{
+color: rgba(240, 248, 255, 0.87);
+}
